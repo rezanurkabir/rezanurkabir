@@ -7,7 +7,7 @@ I’m a Front End Web Developer☀️. I describe myself as a passionate develop
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects.
 
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS/
 
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on github 
