@@ -9,7 +9,7 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 Skills:  REACT / JS / HTML / CSS/
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about annything 
 
